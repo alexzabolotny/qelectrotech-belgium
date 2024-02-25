@@ -1,0 +1,18 @@
+<definition hotspot_x="11" type="element" link_type="simple" width="30" version="0.90" hotspot_y="15" height="30">
+    <uuid uuid="{dde0d5d7-380d-4096-9e78-49f99ce8a77a}"/>
+    <names>
+        <name lang="en"> Switch, single pole
+</name>
+    </names>
+    <elementInformations/>
+    <informations>EN 60617: 11-14-03</informations>
+    <description>
+        <dynamic_text Halignment="AlignLeft" uuid="{e75469a6-8b21-4f79-be02-d205403d17e4}" text_width="-1" text_from="ElementInfo" y="-8" Valignment="AlignTop" x="4" z="1" keep_visual_rotation="false" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" x3="12" y3="-9" y2="-11" y1="0" antialias="true" closed="false" x2="9" x1="2"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" antialias="true" x="-5" diameter="10"/>
+        <terminal uuid="{972da42c-3510-4d1b-8c00-6482d19633c4}" orientation="n" type="Generic" name="" y="0" x="0"/>
+    </description>
+</definition>

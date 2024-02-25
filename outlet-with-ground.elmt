@@ -1,0 +1,28 @@
+<definition hotspot_x="15" type="element" link_type="simple" width="30" version="0.90" hotspot_y="6" height="20">
+    <uuid uuid="{b2d34f15-efbd-4b4b-bbf0-b1a57bc12158}"/>
+    <names>
+        <name lang="de">Steckdose mit Abdeckung</name>
+        <name lang="nl">Wandcontactdoos met klep</name>
+        <name lang="pl">Gniazdo z pokrywą</name>
+        <name lang="cs">Krytá izolovaná zásuvka</name>
+        <name lang="en">Socket outlet (power) with shutter</name>
+        <name lang="fr">Socle de prise de courant (puissance) avec volet d'obturation</name>
+        <name lang="ar">قاعدة مقبس تيّار (قدرة) مع  قفل</name>
+        <name lang="el">Ρευματοδότης με κάλυμα</name>
+        <name lang="it">Presa con schermo interno</name>
+    </names>
+    <elementInformations/>
+    <informations>EN 60617: 11-13-05</informations>
+    <description>
+        <dynamic_text Halignment="AlignLeft" uuid="{4546b133-df82-4da8-a1aa-c7aaf42a65af}" text_width="-1" text_from="ElementInfo" y="-5" Valignment="AlignTop" x="2" z="1" keep_visual_rotation="false" rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y2="5" length2="1.5" y1="5" antialias="false" end1="none" x2="5" x1="-5"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y2="10" length2="1.5" y1="10" antialias="false" end1="none" x2="-5.23807" x1="-9.5095"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y2="10" length2="1.5" y1="10" antialias="false" end1="none" x2="9" x1="4.72858"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" y="5.0664" width="9.49205" angle="-180" antialias="true" x="-4.76347" height="9.8672"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y2="0.1328" length2="1.5" y1="5.0664" antialias="false" end1="none" x2="-0.0174472" x1="-0.0174472"/>
+        <terminal uuid="{9aaaa15e-3667-40c8-8d92-ce4a7489f7c2}" orientation="n" type="Generic" name="" y="0.1328" x="-0.0174472"/>
+    </description>
+</definition>

@@ -1,0 +1,29 @@
+<definition hotspot_x="15" type="element" link_type="simple" width="30" version="0.90" hotspot_y="5" height="40">
+    <uuid uuid="{56367f35-fb8e-4c24-a93e-58a8d53ac8cf}"/>
+    <names>
+        <name lang="de">Serienschalter 1-polig
+</name>
+        <name lang="nl">Serieschakelaar (1)</name>
+        <name lang="pl">Łącznik schodowy</name>
+        <name lang="cs">Schodišťový přepínač</name>
+        <name lang="en">Two-way single pole switch
+</name>
+        <name lang="fr">Interrupteur unipolaire va-et-vient
+</name>
+        <name lang="ar">مفتاح أحادي القطب (مبدّل طرف سلم)</name>
+        <name lang="el">Διακόπτης εναλλαγής (αλέ-ρετούρ)</name>
+        <name lang="it">Deviatore unipolare</name>
+    </names>
+    <elementInformations/>
+    <informations>EN 60617: 11-14-06</informations>
+    <description>
+        <dynamic_text Halignment="AlignLeft" uuid="{2504b77a-929c-431c-842e-0b9bcc18a42b}" text_width="-1" text_from="ElementInfo" y="4.05" Valignment="AlignTop" x="5" z="1" keep_visual_rotation="false" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" x3="-12" y3="28" y2="30" y1="20" antialias="true" closed="false" x2="-9" x1="-2"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" x3="12" y3="1" y2="-1" y1="10" antialias="true" closed="false" x2="9" x1="2"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" y="10" antialias="true" x="-5" diameter="10"/>
+        <terminal uuid="{639de839-c426-4e82-b652-7e8c5c6b063a}" orientation="n" type="Generic" name="" y="10" x="0"/>
+    </description>
+</definition>

@@ -1,0 +1,22 @@
+<definition hotspot_x="13" type="element" link_type="simple" width="20" version="0.90" hotspot_y="24" height="50">
+    <uuid uuid="{6da83908-3444-4e88-9f42-dfa4bd664d99}"/>
+    <names>
+        <name lang="en">Breaker x4</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" y2="3" length2="1.5" y1="5" antialias="false" end1="none" x2="0" x1="-5"/>
+        <line length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" y2="1" length2="1.5" y1="3" antialias="false" end1="none" x2="0" x1="-5"/>
+        <line length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" y2="5" length2="1.5" y1="7" antialias="false" end1="none" x2="1" x1="-4"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y2="-8" length2="1.5" y1="10" antialias="false" end1="none" x2="-6" x1="0"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y2="16" length2="1.5" y1="10" antialias="false" end1="none" x2="0" x1="0"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y2="-10" length2="1.5" y1="-16" antialias="false" end1="none" x2="0" x1="0"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y2="-7" length2="1.5" y1="-8" antialias="false" end1="none" x2="-9" x1="-6"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y2="-1" length2="1.5" y1="-7" antialias="false" end1="none" x2="-7" x1="-9"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y2="-1" length2="1.5" y1="-2" antialias="false" end1="none" x2="-7" x1="-4"/>
+        <line length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" y2="-1" length2="1.5" y1="1" antialias="false" end1="none" x2="-1" x1="-6"/>
+        <terminal uuid="{90b4fd0a-3eaf-47f0-a1f5-dcb65f16a840}" orientation="s" type="Generic" name="" y="20" x="0"/>
+        <terminal uuid="{35bd4726-8fb3-4882-bb64-1d06ee41d264}" orientation="n" type="Generic" name="" y="-20" x="0"/>
+    </description>
+</definition>

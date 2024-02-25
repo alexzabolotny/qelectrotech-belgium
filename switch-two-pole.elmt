@@ -1,0 +1,29 @@
+<definition hotspot_x="11" type="element" link_type="simple" width="30" version="0.90" hotspot_y="15" height="30">
+    <uuid uuid="{15718de5-29f3-4d26-b337-b399419f6fe2}"/>
+    <names>
+        <name lang="de">Schalter 2-polig
+</name>
+        <name lang="nl">Schakelaar (2)</name>
+        <name lang="pl">Łącznik dwubiegunowy</name>
+        <name lang="cs">Dvoupólový spínač</name>
+        <name lang="en">Two pole switch
+</name>
+        <name lang="fr">Interrupteur, bipolaire
+</name>
+        <name lang="ar">مفتاح ثنائي القطبيّة</name>
+        <name lang="el">Διπλός Διακόπτης</name>
+        <name lang="it">Interruttore bipolare</name>
+    </names>
+    <elementInformations/>
+    <informations>EN 60617: 11-14-04</informations>
+    <description>
+        <dynamic_text Halignment="AlignLeft" uuid="{3cd8c8e5-2714-447d-890d-33dd90d35890}" text_width="-1" text_from="ElementInfo" y="-5.95" Valignment="AlignTop" x="5" z="1" keep_visual_rotation="false" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y2="-6" length2="1.5" y1="-8" antialias="false" end1="none" x2="10" x1="7"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" x3="12" y3="-9" y2="-11" y1="0" antialias="false" closed="false" x2="9" x1="2"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" antialias="true" x="-5" diameter="10"/>
+        <terminal uuid="{00c7f7f0-c3de-458c-ba51-7ff85ba3e4e7}" orientation="n" type="Generic" name="" y="0" x="0"/>
+    </description>
+</definition>
